@@ -12,5 +12,9 @@ Run `git status`
 ## Step6
 Run  `git add `  and `git commit ` command to commit the files
 ## Step7
+Geneate token from here `https://github.com/settings/tokens`
+## Step8
+Run `git pull`
+## Step9
 Run `git push origin main`
 
